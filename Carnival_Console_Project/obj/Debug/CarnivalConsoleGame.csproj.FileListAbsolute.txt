@@ -1,7 +1,0 @@
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\bin\Debug\CarnivalConsoleGame.exe.config
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\bin\Debug\CarnivalConsoleGame.exe
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\bin\Debug\CarnivalConsoleGame.pdb
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\obj\Debug\CarnivalConsoleGame.csproj.AssemblyReference.cache
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\obj\Debug\CarnivalConsoleGame.csproj.CoreCompileInputs.cache
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\obj\Debug\CarnivalConsoleGame.exe
-C:\Users\goewe\OneDrive\Desktop\Carnival_Console_Project\obj\Debug\CarnivalConsoleGame.pdb
